@@ -1,7 +1,5 @@
 package ru.job4j;
 
-import org.testng.annotations.Test;
-import static org.assertj.core.api.Assertions.*;
 import java.util.Iterator;
 
 public class ArrayIt implements Iterator<Integer> {

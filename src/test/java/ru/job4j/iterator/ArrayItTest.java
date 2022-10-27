@@ -1,9 +1,8 @@
-package ru.job4j;
+package ru.job4j.iterator;
 
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
 
 class ArrayItTest {
     @Test
